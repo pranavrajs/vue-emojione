@@ -1,0 +1,24 @@
+{
+  "name": "vue-emojione",
+  "version": "1.0.0",
+  "description": "Vue.js EmojiOne renderer",
+  "main": "vue-emoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavrajs/vue-emojione.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-emoji",
+    "emojione"
+  ],
+  "author": "Pranav <pranavrajs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranavrajs/vue-emojione/issues"
+  },
+  "homepage": "https://github.com/pranavrajs/vue-emojione#readme"
+}
