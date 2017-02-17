@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pranavrajs/vue-emojione/issues"
   },
-  "homepage": "https://github.com/pranavrajs/vue-emojione#readme"
+  "homepage": "https://github.com/pranavrajs/vue-emojione#readme",
+  "dependencies": {
+    "emojione": "^2.2.7"
+  }
 }
