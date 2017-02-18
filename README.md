@@ -1,6 +1,7 @@
 # vue-emojione
 
-> EmojiOne renderer for Vue
+![Dependancies](https://david-dm.org/pranavrajs/vue-emojione.svg)
+> EmojiOne Directive for Vue
 
 
 ## Install
@@ -12,17 +13,20 @@
 - Available through npm as `vue-emojione`.
 
   ``` js
-  import VueEmojiRender from 'vue-emojione';
-  Vue.use(VueEmojiRender);
+  import VueEmoji from 'vue-emojione';
+  Vue.use(VueEmoji, {
+    imageType: 'svg',
+    sprites: true
+  });
   ```
 
 
 ## Usage
 
-#### Using the `v-touch` directive
+#### Using the `v-emoji-render` directive
 
 ``` html
-<div v-emoji-render:="data"></div>
+<div v-emoji-render:data="data"></div>
 ```
 
 ## License
