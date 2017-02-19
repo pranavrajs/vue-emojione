@@ -8,9 +8,11 @@
 
 > This plugin is compatible with Vue 2.0.
 
-#### CommonJS
 
 - Available through npm as `vue-emojione`.
+  ```
+  npm install -S vue-emojione
+  ```
 
   ``` js
   import VueEmoji from 'vue-emojione';
