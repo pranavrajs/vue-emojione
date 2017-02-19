@@ -1,6 +1,6 @@
 {
   "name": "vue-emojione",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue.js EmojiOne renderer",
   "main": "dist/vue-emoji.js",
   "scripts": {
